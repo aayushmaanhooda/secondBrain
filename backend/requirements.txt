@@ -1,0 +1,9 @@
+python-dotenv
+langchain>=1.0.8
+langchain-openai>=1.0.3
+langgraph>=1.0.3
+mem0ai>=1.0.1
+pinecone>=8.0.0
+fastapi
+uvicorn
+pydantic
