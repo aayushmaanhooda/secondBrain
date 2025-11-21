@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```env
 OPENAI_API_KEY=your_openai_key
 PINECONE_API_KEY=your_pinecone_key
-MEM0_API_KEY=your_mem0_key  # Optional
+MEM0_API_KEY=your_mem0_key  
 ```
 
 4. Run the server:
